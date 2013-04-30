@@ -1,6 +1,19 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/models/user.rb": [
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
       "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/controllers/application_controller.rb": [
         1,
         1,
@@ -33,7 +46,7 @@
         null,
         null,
         1,
-        15,
+        17,
         null,
         null,
         1,
@@ -153,6 +166,6 @@
         null
       ]
     },
-    "timestamp": 1366936451
+    "timestamp": 1367293394
   }
 }
