@@ -42,12 +42,10 @@
       "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/controllers/projects_controller.rb": [
         1,
         1,
-        null,
-        null,
-        null,
+        1,
         null,
         1,
-        23,
+        28,
         null,
         null,
         1,
@@ -88,6 +86,15 @@
         null,
         null,
         1,
+        null,
+        1,
+        14,
+        14,
+        5,
+        5,
+        null,
+        null,
+        null,
         1,
         20,
         null,
@@ -170,6 +177,6 @@
         null
       ]
     },
-    "timestamp": 1367384806
+    "timestamp": 1367901980
   }
 }
