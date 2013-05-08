@@ -12,6 +12,11 @@
         null,
         null,
         1,
+        1,
+        null,
+        1,
+        7,
+        null,
         null,
         null
       ],
@@ -22,8 +27,8 @@
         1,
         null,
         1,
-        24,
-        24,
+        29,
+        29,
         6,
         6,
         null,
@@ -42,7 +47,7 @@
         null,
         null,
         1,
-        133,
+        141,
         null,
         null,
         null
@@ -72,18 +77,18 @@
       "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/controllers/admin/users_controller.rb": [
         1,
         1,
+        5,
+        null,
+        null,
+        1,
         3,
         null,
         null,
         1,
-        2,
-        null,
-        null,
-        1,
+        3,
+        3,
         2,
         2,
-        1,
-        1,
         null,
         1,
         1,
@@ -98,7 +103,7 @@
         1,
         null,
         1,
-        41,
+        43,
         null,
         null,
         1,
@@ -222,6 +227,6 @@
         null
       ]
     },
-    "timestamp": 1367985572
+    "timestamp": 1367986695
   }
 }
