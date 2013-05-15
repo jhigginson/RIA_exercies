@@ -18,6 +18,8 @@
         29,
         null,
         null,
+        null,
+        1,
         null
       ],
       "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/controllers/application_controller.rb": [
@@ -210,13 +212,13 @@
         1,
         null,
         1,
-        55,
+        57,
         null,
         null,
         1,
         null,
         1,
-        99,
+        101,
         null,
         null,
         null
@@ -237,6 +239,8 @@
         1,
         1,
         1,
+        null,
+        1,
         3,
         null,
         null,
@@ -275,9 +279,15 @@
         null,
         null,
         1,
+        1,
+        8,
+        2,
+        2,
+        null,
+        null,
         null,
         1,
-        18,
+        20,
         null,
         1,
         null,
@@ -305,6 +315,21 @@
         null,
         null
       ],
+      "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/models/ability.rb": [
+        1,
+        1,
+        1,
+        8,
+        14,
+        null,
+        null,
+        6,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/john/ruby_cert/rails/ria_exercises/ticketee/app/models/permission.rb": [
         1,
         1,
@@ -313,6 +338,6 @@
         null
       ]
     },
-    "timestamp": 1368588908
+    "timestamp": 1368590527
   }
 }

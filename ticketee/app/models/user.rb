@@ -14,4 +14,6 @@ class User < ActiveRecord::Base
     "#{email} (#{admin? ? "Admin" : "User"})"
   end
   # attr_accessible :title, :body
+
+  has_many :permissions
 end
